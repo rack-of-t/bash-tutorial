@@ -39,3 +39,4 @@ cd ../../..
 pwd
 cd images/
 ls --color=auto
+mv header.png ..
