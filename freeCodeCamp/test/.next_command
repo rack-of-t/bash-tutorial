@@ -54,3 +54,4 @@ mv images/footer.jpeg client/assets/images/
 pwd
 ls --color=auto
 find
+rmdir images/
