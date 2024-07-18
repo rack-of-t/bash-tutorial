@@ -55,3 +55,4 @@ pwd
 ls --color=auto
 find
 rmdir images/
+rm images/background.jpg
