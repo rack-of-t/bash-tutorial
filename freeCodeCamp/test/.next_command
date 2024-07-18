@@ -8,3 +8,5 @@ mv lato.font lato.ttf
 mv menlo.font menlo.otf
 ls --color=auto
 mkdir fonts
+ls --color=auto
+ls --color=auto
