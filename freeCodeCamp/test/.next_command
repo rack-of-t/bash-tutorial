@@ -36,3 +36,5 @@ mkdir images
 cd images/
 touch background.jpg
 cd ../../..
+pwd
+cd images/
