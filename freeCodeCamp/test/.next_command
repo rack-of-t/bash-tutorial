@@ -93,3 +93,4 @@ more README.md
 echo --help
 echo--help
 echo from the command line >> README.md
+more README.md
