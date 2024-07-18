@@ -51,3 +51,6 @@ find -name footer.jpg
 find -name footer.jpeg
 move images/footer.jpeg client/assets/images/
 mv images/footer.jpeg client/assets/images/
+pwd
+ls --color=auto
+find
