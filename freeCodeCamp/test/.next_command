@@ -85,3 +85,4 @@ touch package.json
 touch server.js
 touch README.md
 ls --color=auto
+echo Yay!
