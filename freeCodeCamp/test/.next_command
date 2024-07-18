@@ -1,3 +1,4 @@
 ls --color=auto
 rm footer.jpg
 rm footer.jpeg
+ls --color=auto
