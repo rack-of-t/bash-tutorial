@@ -38,3 +38,4 @@ touch background.jpg
 cd ../../..
 pwd
 cd images/
+ls --color=auto
